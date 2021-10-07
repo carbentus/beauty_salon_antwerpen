@@ -2,7 +2,13 @@
 
 Full responsive landing page.
 
+## Tech stack:
+
+HTML, CSS, JS, jQuery
+
 ## Demo
+
+https://dalilehk.github.io/beauty_salon_antwerpen/
 
 ## Features
 
@@ -14,6 +20,6 @@ Full responsive landing page.
 - integrated contact form (formspree.io)
 - own UX/UI design
 
-## Used:
+## Preview on different devices
 
-HTML, CSS, JS, jQuery
+![alt text](https://github.com/dalilehk/beauty_salon_antwerpen/blob/main/salon_preview.jpg?raw=true)
